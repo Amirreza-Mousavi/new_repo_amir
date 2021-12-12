@@ -1,2 +1,2 @@
 # new_repo_amir
-Awsome Coding Description
+Just a reminder of my first steps in github!
